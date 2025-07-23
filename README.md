@@ -31,7 +31,7 @@ Our tools aim to be **practical**, **minimal**, and **reusable** in real-world p
 ## 🧩 Technologies We Use
 
 Java • Spring Boot • PostgreSQL • Docker • CI/CD • GitHub Actions  
-And lots of YAML 🧘‍♀️
+
 
 ---
 
