@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/setronica-dev/.github/main/logo.png" width="160" alt="Setronica logo">
+</p>
+
+# Setronica Dev
+
 # Setronica Dev
 
 Welcome to **Setronica’s open-source workspace**!  
