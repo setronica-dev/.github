@@ -44,7 +44,7 @@ We prefer simple, CLI-first, infrastructure-friendly tools.
 ## 📫 Stay in Touch
 
 - 🌐 [setronica.com](https://setronica.com)
-- 📬 [hello@setronica.com](mailto:contact@setronica.com)
+- 📬 [contact@setronica.com](mailto:contact@setronica.com)
 - 📚 [dev.to/setronica_25](https://dev.to/setronica_25)
 
 Feel free to explore, fork, or suggest ideas — we're happy to hear from the community!
