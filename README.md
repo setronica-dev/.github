@@ -24,7 +24,7 @@ Our team combines deep engineering with business knowledge — making complex sy
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -34,14 +34,14 @@ More coming soon as we open up additional utilities.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Java • Spring Boot • PostgreSQL • Docker • GitHub Actions  
 We prefer simple, CLI-first, infrastructure-friendly tools.
 
 ---
 
-## 📫 Stay in Touch
+## Stay in Touch
 
 - 🌐 [setronica.com](https://setronica.com)
 - 📬 [contact@setronica.com](mailto:contact@setronica.com)
