@@ -1,24 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/setronica-dev/.github/main/logo.png" width="160" alt="Setronica logo">
+  <img src="https://raw.githubusercontent.com/setronica-dev/.github/main/setronica-logo.png" width="160" alt="Setronica logo">
 </p>
+
 # Setronica Dev
 
-Welcome to **Setronica’s open-source workspace**!  
-We create tools that support product data import, transformation, and system integration — especially for eCommerce and B2B platforms.
+Welcome to Setronica’s open-source space 👋  
+We publish practical tools we’ve built while solving real problems in enterprise projects — from product catalog import to data transformation and integration.
 
 ---
 
-## 💡 What we do
+## 🧾 Who We Are
 
-Setronica has been building software since **1999** — from startups to Fortune 100 clients.  
-We focus on:
+With over two decades of experience, **Setronica** delivers custom software solutions for clients ranging from startups to Fortune 100 companies.
 
-- Product Catalog Import & Cleanup
-- Supplier Onboarding Tools
-- Integration Workflows (ERP / eProcurement)
-- Custom eCommerce Solutions
+We specialize in building robust, scalable systems — including:
 
-Our tools aim to be **practical**, **minimal**, and **reusable** in real-world pipelines.
+- 🛒 eCommerce platforms & online marketplaces  
+- ⚙️ ERP and eProcurement solutions  
+- 🔗 API & systems integration  
+- 🧰 DevOps automation and cloud-native services
+
+Our team combines deep engineering with business knowledge — making complex systems easier to build, maintain, and extend.
 
 ---
 
@@ -26,24 +28,24 @@ Our tools aim to be **practical**, **minimal**, and **reusable** in real-world p
 
 | Project | Description |
 |--------|-------------|
-| [Product Catalog Import Tool](https://github.com/setronica-dev/product-catalog-import-tool) | CLI for parsing supplier catalogs (CSV/XLSX/JSON) and transforming them via YAML |
-| [Coming Soon] | More tools will be published as we clean up and document them |
+| [`product-catalog-import-tool`](https://github.com/setronica-dev/product-catalog-import-tool) | CLI to import and clean supplier catalogs (CSV/XLSX/JSON), configurable via YAML |
+
+More coming soon as we open up additional utilities.
 
 ---
 
-## 🧩 Technologies We Use
+## 🛠 Tech Stack
 
-Java • Spring Boot • PostgreSQL • Docker • CI/CD • GitHub Actions  
-
-
----
-
-## 📫 Want to reach us?
-
-- Company: [setronica.com](https://setronica.com)
-- Contact: [hello@setronica.com](mailto:hello@setronica.com)
-- Dev Blog: [dev.to/setronica_25](https://dev.to/setronica_25)
+Java • Spring Boot • PostgreSQL • Docker • GitHub Actions  
+We prefer simple, CLI-first, infrastructure-friendly tools.
 
 ---
 
-_We believe in sharing practical solutions we've used in real projects — feel free to explore, use, fork, or contribute!_
+## 📫 Stay in Touch
+
+- 🌐 [setronica.com](https://setronica.com)
+- 📬 [hello@setronica.com](mailto:contact@setronica.com)
+- 📚 [dev.to/setronica_25](https://dev.to/setronica_25)
+
+Feel free to explore, fork, or suggest ideas — we're happy to hear from the community!
+
