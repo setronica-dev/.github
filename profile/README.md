@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/setronica-dev/.github/main/setronica-logo.png" width="160" alt="Setronica logo">
-</p>
-
 # Setronica Dev
 
 Welcome to Setronica’s open-source space 👋  
